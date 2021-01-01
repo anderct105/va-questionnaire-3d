@@ -1,0 +1,137 @@
+Number of years of education completed
+Did Decedent Have Asthma?
+Did Decedent Have Arthritis?
+Did Decedent Have Cancer?
+Did Decedent Have COPD?
+Did Decedent Have Dementia?
+Did Decedent Have Depression?
+Did Decedent Have Diabetes?
+Did Decedent Have Epilepsy?
+Did Decedent Have Heart Disease?
+Did Decedent Have Hypertension?
+Did Decedent Have Obesity?
+Did Decedent Have Stroke?
+Did Decedent Have TB?
+Did Decedent Have AIDS?
+Did [name] have a fever?
+How severe was the fever?
+What was the pattern of fever?
+Did [name] have sweating with the fever?
+Did [name] have a rash?
+Where was the rash located?
+Where was the rash located?
+Did [name] have sores?
+Did the sores have clear fluid or pus?
+Did [name] have itching of skin?
+Did [name] have an ulcer (pit) on the foot?
+Did the ulcer ooze pus?
+Did [name] have blue lips?
+Had [name] lost weight in the three months prior to death?
+How substantial was the loss of weight?
+Did [name] look pale?
+Did [name] have yellow discoloration of the eyes?
+Did [name] have ankle swelling?
+Did [name] have puffiness of the face?
+Did [name] have general puffiness all over his/her body?
+Did [name] have a lump in the neck?
+Did [name] have a lump in the armpit?
+Did [name] have a lump in the groin?
+Did [name] have a cough?
+Did the cough produce sputum?
+Did [name] cough blood?
+Did [name] have difficulty breathing?
+Was the difficulty continuous or on and off?
+In what position did the difficulty get worse?
+In what position did the difficulty get worse?
+Did [name] have fast breathing?
+Did [name] wheeze? 
+Did [name] experience pain in the chest in the month preceding death?
+How long did the pain last?
+Was the pain during physical activity?
+Where was the pain located?
+Did [name] have more frequent loose or liquid stools than usual?
+Did [name] have a change in bowel habits?
+Was there blood in the stool?
+Was there blood in the stool up until death?
+Did [name] stop urinating?
+Did [name] vomit in the week preceding the death?
+Was there blood in the vomit?
+Was the vomit black?
+Did [name] have difficulty swallowing?
+Was the difficulty with swallowing with solids, liquids, or both?
+Did [name] have pain upon swallowing?
+Did [name] have belly pain?
+Was the pain in the upper or lower belly?
+Was the pain in the upper or lower belly?
+Did [name] have a more than usual protruding belly?
+How rapidly did [name] develop the protruding belly?
+Did [name] have any mass in the belly?
+Did [name] have headaches?
+Was the onset of the headache fast or slow?
+Did [name] have a stiff neck?
+Did [name] experience a period of loss of consciousness?
+Did the period of loss of consciousness start suddenly or slowly?
+Did it continue until death?
+Did [name] experience a period of confusion at any time in the three months prior to death?
+Did the period of confusion start suddenly or slowly?
+Did [name] experience memory loss at any time in the three months prior to death?
+Did [name] have convulsions?
+Did the person become unconscious immediately after the convulsions?
+Was [name] in any way paralyzed?
+Paralyzed right side (arm and leg)
+Paralyzed left side (arm and leg)
+Paralyzed lower part of body
+Paralyzed upper part of body
+Paralyzed one leg only
+Paralyzed one arm only
+Paralyzed whole body
+Paralyzed refused
+Paralyzed don't know
+Paralyzed other
+Did [name] have any swelling or lump in the breast?
+Did [name] have any ulcers (pits) in the breast?
+Had [name] periods stopped naturally because of menopause
+Did [name] have vaginal bleeding after cessation of menstruation? (post menopausal)
+Did [name] have vaginal bleeding other than her period? (intermenstrual)
+Was there excessive vaginal bleeding in the week prior to death?
+At the time of death was her period overdue?
+Did [name] have a sharp pain in the belly shortly before death?
+Was [name] pregnant at the time of death?
+Did [name] die during an abortion?
+Did bleeding occur while she was pregnant?
+Did she have excessive bleeding during labor or delivery?
+Did she die during labor or delivery?
+Did she die within 6 weeks after having an abortion?
+Did she die within 6 weeks of childbirth?
+Did she have excessive bleeding after delivery or abortion?
+Did [name] have bad smelling vaginal discharge within 6 weeks after delivery or abortion?
+Did [name] use tobacco?
+Did [name] drink alcohol?
+Would you say the amount of alcohol [name] drank daily was…?
+Decedent suffered road traffic injury
+Decedent suffered fall
+Decedent suffered drowning
+Decedent suffered poisoning
+Decedent suffered bite/sting
+Decedent suffered burn
+Decedent victim of violence
+Decedent did not suffer any injuries
+Decedent suffered other injury
+Was the injury or accident self-inflicted?
+Was the injury or accident intentionally inflicted by someone else?
+Was care sought outside the home while [name] had this illness?
+Care sought - traditional healer
+Care sought - homeopath
+Care sought - religious leader
+Care sought - government hospital
+Care sought - government health center or clinic
+Care sought - private hospital
+Care sought - private center or clinic
+Care sought - community based practitioner
+Care sought - trained birth attendant
+Care sought - private physician
+Care sought - pharmacy
+Care sought - other provider
+Care sought - relative, friend
+Care sought - refused
+Care sought - don't know
