@@ -1,0 +1,104 @@
+Was the deceased a singleton or multiple birth?
+Was this the first, second, or later in the birth order? 
+Is the mother still alive?
+Did the mother die during or after the delivery?
+Where was the deceased born?
+At the time of the delivery what was the size of the deceased?
+What was the weight of the deceased at birth? [specify units]
+Was the child born alive or dead?
+Did the baby ever cry? 
+Did the baby ever move?
+Did the baby ever breathe?
+Where did the deceased die?
+Was care sought outside the home while the deceased had this illness?
+Care sought - homeopath
+Care sought - religious leader
+Care sought - government hospital
+Care sought - government health center or clinic
+Care sought - private hospital
+Care sought - community based practitioner
+Care sought - trained birth attendant
+Care sought - private physician
+Has the deceased's (biological) mother ever been tested for HIV? 
+Was the HIV test ever positive? 
+Has the deceased's (biological) mother ever been told she had AIDS by a health worker? 
+Decedent never cried, moved or breathed
+Were there any bruises or signs of injury on the baby's body at birth? 
+Was the baby's body (skin and tissue) pulpy? 
+Was any part of the baby physically abnormal at time of delivery?
+Abormalities: Head size very small at time of birth?
+Abormalities: Head size very large at time of birth?
+Abormalities: Mass defect on the back of head or spine
+Abormalities: Other
+Abormalities: Refused to Answer
+Abormalities: Don't Know
+Mark the baby's age at the time of death.
+Complications: Mother had convulsions
+Complications: Mother had hypertension
+Complications: Mother had anemia
+Complications: Mother had diabetes
+Complications: Child delivered non-headfirst
+Complications: Cord delivered first
+Complications: Cord around child's neck
+Complications: Excessive bleeding
+Complications: Fever during labor
+Complications: No complications
+Complications: Refused to Answer
+Complications: Don't know
+Complications: Placenta came out first
+Did the pregnancy end early, on time, or late? 
+Was the baby moving in the last few days before the birth? 
+Did the water break before labor or during labor? 
+How much time before labor did the water break? 
+What was the color of the liquor when the water broke? 
+Was the liquor foul smelling?
+Did you (the mother) receive any vaccinations since reaching adulthood including during this pregnancy?
+How many doses? 
+Where did the delivery occur?
+Who delivered the baby?
+Type of delivery
+During labor but before delivery, did you (the mother) receive any kind of injection? 
+Were there any bruises or signs of injury on the baby's body at birth?
+Was any part of the baby physically abnormal at time of delivery?
+Abnormalities: Head size very small at time of birth?
+Abnormalities: Head size very large at time of birth?
+Abnormalities: Mass defect on the back of head or spine
+Abnormalities: Other
+Abnormalities: Refused to Answer
+Abnormalities: Don't know
+Did the baby breathe immediately after birth?
+Did the baby have difficulty breathing?
+Was anything done to try to help the baby breathe at birth? 
+Did the baby cry immediately after birth? 
+How long after birth did the baby first cry? 
+Did the baby stop being able to cry? 
+How long before the baby died did the baby stop crying? 
+Was the baby able to suckle in a normal way during the first day of life?
+Did the baby ever suckle in a normal way? 
+Did the baby stop being able to suckle in a normal way? 
+How long before he/she died did the baby stop suckling?
+Was the baby able to open his/her mouth at the time he/she stopped sucking?
+During the illness that led to death, did the baby have difficult breathing? 
+During the illness that led to death, did the baby have fast breathing? 
+During the illness that led to death, did the baby have indrawing of the chest?
+During the illness that led to death, did the baby have grunting? 
+During the illness that led to death did the baby have spasms or convulsions?
+During the illness that led to death, did the baby have fever? 
+During the illness that led to death, did the baby become cold to touch?
+During the illness that led to death, did the baby become lethargic, after a period of normal activity?
+During the illness that led to death, did the baby become unresponsive or unconscious? 
+During the illness that led to death, did the baby have a bulging fontanelle?
+During the illness that led to death, did the baby have pus drainage from the umbilical cord stump? 
+During the illness that led to death, did the baby have redness of the umbilical cord stump?
+Did the redness of the umbilical cord stump extend onto the abdominal skin? 
+During the illness that led to death, did the baby have skin bumps containing pus or a single large area with pus? 
+During the illness that led to death, did the baby have ulcer(s) (pits)? 
+During the illness that led to death, did the baby have an area(s) of skin with redness and swelling?
+During the illness that led to death, did he/she have areas of the skin that turned black?
+During the illness that led to death, did the baby bleed from anywhere? 
+During the illness that led to death, did he/she have more frequent loose or liquid stools than usual?
+How many stools did the baby have on the day that diarrhea/loose liquid stools were most frequent? [specify units]
+During the illness that led to death, did he/she vomit everything?
+During the illness that led to death, did he/she have yellow skin?
+During the illness that led to death, did the baby have yellow eyes? 
+Did the infant appear to be healthy and then just die suddenly?

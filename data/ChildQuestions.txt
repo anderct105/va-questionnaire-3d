@@ -1,0 +1,81 @@
+Number of years of education completed
+Was the deceased a singleton or multiple birth?
+Was this the first, second, or later in the birth order? 
+Is the mother still alive?
+Did the mother die during or after the delivery?
+Where was the deceased born?
+At the time of the delivery what was the size of the deceased?
+What was the weight of the deceased at birth? [specify units]
+What was the sex of the deceased?
+Was the child born alive or dead?
+Did the baby ever cry? 
+Did the baby ever move?
+Did the baby ever breathe?
+Where did the deceased die?
+During the illness that led to death, did [name] have a fever? 
+Did the fever continue until death?
+How severe was the fever?
+What was the pattern of fever?
+During the illness that led to death, did [name] have more frequent loose or liquid stools than usual? 
+How many stools did [name] have on the day that loose liquid stools were most frequent? [specify units]
+Did the frequent loose or liquid stools continue until death?
+Was there visible blood in the loose or liquid stools?
+During the illness that led to death, did the child have a cough?
+Was the cough very severe? 
+Did the child vomit after he/she coughed? 
+During the illness that led to death, did [name] have difficult breathing?
+During the illness that led to death, did [name] have fast breathing? 
+During the illness that led to death, did he/she have indrawing of the chest? 
+Breathing: Stridor 
+Breathing: Grunting
+Breathing: Wheezing
+Did [name] experience any generalized convulsions or fits during the illness that led to death? 
+Was [name] unconscious during the illness that led to death?
+How long before death did unconsciousness start?
+Did [name] have a stiff neck during the illness that led to death? 
+Did [name] have a bulging fontanelle during the illness that led to death?
+During the month before he/she died, did [name] have a skin rash? 
+Where was the rash?
+Where was the rash?
+Where did the rash start?
+Did the rash have blisters containing clear fluid?
+During the illness that led to death, did [name]'s limbs (legs, arms) become very thin?
+During the illness that led to death, did [name] have swollen legs or feet?
+During the illness that led to death, did [name]'s skin flake off in patches?
+Did [name]'s hair change in color to a reddish or yellowish color?
+Did [name] have a protruding belly?
+During the illness that led to death, did [name] suffer from 'lack of blood' or 'pallor'?
+During the illness that led to death, did [name] have swelling in the armpits?
+During the illness that led to death, did [name] have a whitish rash inside the mouth or on the tongue?
+During the illness that led to death, did [name] bleed from anywhere?
+During the illness that led to death, did he/she have areas of the skin that turned black? 
+Decedent suffered road traffic injury
+Decedent suffered fall
+Decedent suffered drowning
+Decedent suffered poisoning
+Decedent suffered bite/sting
+Decedent suffered burn/fire
+Decedent victim of violence
+Decedent suffered other injury
+Don't know if decedent suffered injury
+Refused to Answer if decedent suffered injury
+Decedent did not suffer accident
+Was the injury or accident intentionally inflicted by someone else?
+Was care sought outside the home while the deceased had this illness?
+Care sought - traditional healer
+Care sought - homeopath
+Care sought - religious leader
+Care sought - government hospital
+Care sought - government health center or clinic
+Care sought - private hospital
+Care sought - community based practitioner
+Care sought - trained birth attendant
+Care sought - private physician
+Care sought - pharmacy
+Care sought - other provider
+Care sought - relative, friend
+Care sought - refused
+Care sought - don't know
+Has the deceased's (biological) mother ever been tested for HIV? 
+Was the HIV test ever positive? 
+Has the deceased's (biological) mother ever been told she had AIDS by a health worker?
