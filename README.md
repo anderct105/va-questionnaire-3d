@@ -1,6 +1,6 @@
 <h1 align="center"> VA Questions Projection with Tensorflow Projector</h1>
 
-Quick demo to generate and project the VA (Verbal Autopsy) questionnaires (http://www.healthdata.org/verbal-autopsy) data into a 3 dimensional space using either T-SNE or PCA with [TensorflowProjector](https://projector.tensorflow.org/). 
+Quick demo to generate and project the VA (Verbal Autopsy) questionnaire (http://www.healthdata.org/verbal-autopsy) data into a 3 dimensional space using either T-SNE or PCA with [TensorflowProjector](https://projector.tensorflow.org/). 
 TensorflowProjector demo             |  Software demo
 :-------------------------:|:-------------------------:
 ![](https://github.com/anderct105/va-questionnaire-3d/blob/develop/img/tf_projector_demo.gif)  |  ![](https://github.com/anderct105/va-questionnaire-3d/blob/develop/img/software_demo.gif) 
